@@ -1,4 +1,4 @@
-# Angular JumpStart with TypeScript
+# Angular JumpStart with TypeScript -Versión 1-
 
 The goal of this jumpstart app is to provide
 a simple way to get started with Angular 2+ while also showing several key Angular features. The sample
